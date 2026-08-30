@@ -172,7 +172,7 @@ We believe in full user data ownership:
 ## 17. Demo & Screenshots
 *A visual demo of the active synchronization loop, the chronological memories browser, and the semantic recall chatbot will be displayed here.*
 
-![SAGE User Interface](file:///c:/SAGE/screen.png)
+
 
 ---
 
