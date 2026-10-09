@@ -1,6 +1,10 @@
-# 🧠 SAGE — Personal Wearable Memory Capture System
-
-> **"People May Fade. Memories Shouldn't."**
+<div align="center">
+  <img src="sage_ai_illustration.jpg" alt="SAGE Wearable AI - Agentic AI and Embedded Systems" width="100%">
+  
+  # 🧠 SAGE — Personal Wearable Memory Capture System
+  
+  > **"People May Fade. Memories Shouldn't."**
+</div>
 
 [![Frontend](https://img.shields.io/badge/Frontend-Mobile%20Application-blue)](#)
 [![Hardware](https://img.shields.io/badge/Hardware-Wearable%20Device-orange)](#)
@@ -185,5 +189,5 @@ We believe in full user data ownership:
 
 ## 19. Contact
 
-SAGE is built and maintained by **TechBastards**. All rights reserved.
-For inquiries, please open a discussion on the GitHub organization page.
+SAGE is built and maintained by **Vinayak Sharma**. All rights reserved.
+For inquiries, please open a discussion on the GitHub repository page.
