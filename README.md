@@ -2,6 +2,7 @@
   <img src="sage_ai_illustration.jpg" alt="SAGE Wearable AI - Agentic AI and Embedded Systems" width="100%">
   
   # 🧠 SAGE — Personal Wearable Memory Capture System
+  *Developed by Vinayak Sharma for EDEMS Pvt. Ltd.*
   
   > **"People May Fade. Memories Shouldn't."**
 </div>
