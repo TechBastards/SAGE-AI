@@ -6,10 +6,19 @@
   > **"People May Fade. Memories Shouldn't."**
 </div>
 
-[![Frontend](https://img.shields.io/badge/Frontend-Mobile%20Application-blue)](#)
-[![Hardware](https://img.shields.io/badge/Hardware-Wearable%20Device-orange)](#)
-[![AI Layer](https://img.shields.io/badge/AI-Multi--models-green)](#)
-[![Cloud Storage](https://img.shields.io/badge/Cloud-Secure%20Backup-yellow)](#)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/ESP32-000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/TechBastards/SAGE-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechBastards&repo=SAGE-AI&theme=tokyonight&hide_border=true" alt="SAGE-AI Repo Stats" />
+  </a>
+</p>
 
 ---
 
