@@ -75,7 +75,7 @@ graph TD
     E -->|Interactive Memory Recall| F
 ```
 
-For a detailed breakdown of SAGE's components and architectural tiers, see [docs/architecture/architecture-details.md](file:///c:/SAGE/docs/architecture/architecture-details.md).
+For a detailed breakdown of SAGE's components and architectural tiers, see [docs/architecture/architecture-details.md](./docs/architecture/architecture-details.md).
 
 ---
 
@@ -86,7 +86,7 @@ The wearable unit uses a low-power dual-core microcontroller configured for inde
 *   **Memory Management:** External PSRAM enabled for dual-buffer partitioning, allowing concurrent data collection.
 *   **Communication:** Configured as a local Access Point hosting a REST and binary streaming web server.
 
-For schematics and pin configurations, see [hardware/hardware-overview.md](file:///c:/SAGE/hardware/hardware-overview.md).
+For schematics and pin configurations, see [hardware/hardware-overview.md](./hardware/hardware-overview.md).
 
 ---
 
@@ -138,14 +138,14 @@ For schematics and pin configurations, see [hardware/hardware-overview.md](file:
 2.  **Meeting Recap:** Conversational retrieval of assignees and key tasks discussed in meetings.
 3.  **Structured Daily Log:** Chronological review of daily activities with automatically generated titles and tags.
 
-For scenarios and user flows, see [docs/use-cases/use-cases-details.md](file:///c:/SAGE/docs/use-cases/use-cases-details.md).
+For scenarios and user flows, see [docs/use-cases/use-cases-details.md](./docs/use-cases/use-cases-details.md).
 
 ---
 
 ## 12. Methodology
 The SAGE system uses an automated loop: **Capture (15s)** ➡️ **Transfer & Cache** ➡️ **Transition Scroll** ➡️ **30s Decision Window** ➡️ **Loop Repeat**. Decoupling buffer acquisition from media muxing allows the wearable device to remain lightweight, offloading the processing to the client app.
 
-For more details on the media processing pipeline, see [docs/methodology/methodology-details.md](file:///c:/SAGE/docs/methodology/methodology-details.md) and [research/methodology.md](file:///c:/SAGE/research/methodology.md).
+For more details on the media processing pipeline, see [docs/methodology/methodology-details.md](./docs/methodology/methodology-details.md) and [research/methodology.md](./research/methodology.md).
 
 ---
 
@@ -156,7 +156,7 @@ Traditional wearable life-loggers face two major limits:
 
 SAGE solves these issues by partitioning the audio/video buffers into separate memory locations on the device, offloading processing, and using multimodal AI for semantic timeline indexing.
 
-For the complete analysis, see [docs/gap-analysis/gap-details.md](file:///c:/SAGE/docs/gap-analysis/gap-details.md) and [research/gap-analysis.md](file:///c:/SAGE/research/gap-analysis.md).
+For the complete analysis, see [docs/gap-analysis/gap-details.md](./docs/gap-analysis/gap-details.md) and [research/gap-analysis.md](./research/gap-analysis.md).
 
 ---
 
@@ -190,9 +190,9 @@ We believe in full user data ownership:
 ---
 
 ## 18. Research
-*   [Literature Review](file:///c:/SAGE/research/literature-review.md) - Analysis of past wearable memory aids.
-*   [Gap Analysis](file:///c:/SAGE/research/gap-analysis.md) - Focus on resource constraints and synchronization.
-*   [Methodology](file:///c:/SAGE/research/methodology.md) - Engineering architecture of SAGE.
+*   [Literature Review](./research/literature-review.md) - Analysis of past wearable memory aids.
+*   [Gap Analysis](./research/gap-analysis.md) - Focus on resource constraints and synchronization.
+*   [Methodology](./research/methodology.md) - Engineering architecture of SAGE.
 
 ---
 
